@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+Disallow: /api/
+Disallow: /carrinho
+Disallow: /checkout
+Disallow: /pedidos
+Disallow: /perfil
